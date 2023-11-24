@@ -1,4 +1,4 @@
-package soulutions.easy.palindromeNumber;
+package soulutions.easy.PalindromeNumber;
 
 public class PalindromeNumber {
     public boolean solution(int x) {
