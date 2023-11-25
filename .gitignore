@@ -1,5 +1,8 @@
 /.idea
 ./leetCodes.iml
-./out
+/out
 /pom.xml
+/target
 /leetCodes.iml
+/.gitignore
+/studia
